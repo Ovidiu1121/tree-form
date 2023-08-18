@@ -1,0 +1,12 @@
+C:\Data\programre-vizuala-csharp\Aplicatii\TreeForm\TreeForm\bin\Debug\TreeForm.exe.config
+C:\Data\programre-vizuala-csharp\Aplicatii\TreeForm\TreeForm\bin\Debug\TreeForm.exe
+C:\Data\programre-vizuala-csharp\Aplicatii\TreeForm\TreeForm\bin\Debug\TreeForm.pdb
+C:\Data\programre-vizuala-csharp\Aplicatii\TreeForm\TreeForm\obj\Debug\TreeForm.csproj.AssemblyReference.cache
+C:\Data\programre-vizuala-csharp\Aplicatii\TreeForm\TreeForm\obj\Debug\TreeForm.csproj.SuggestedBindingRedirects.cache
+C:\Data\programre-vizuala-csharp\Aplicatii\TreeForm\TreeForm\obj\Debug\TreeForm.FrmHome.resources
+C:\Data\programre-vizuala-csharp\Aplicatii\TreeForm\TreeForm\obj\Debug\TreeForm.Properties.Resources.resources
+C:\Data\programre-vizuala-csharp\Aplicatii\TreeForm\TreeForm\obj\Debug\TreeForm.csproj.GenerateResource.cache
+C:\Data\programre-vizuala-csharp\Aplicatii\TreeForm\TreeForm\obj\Debug\TreeForm.csproj.CoreCompileInputs.cache
+C:\Data\programre-vizuala-csharp\Aplicatii\TreeForm\TreeForm\obj\Debug\TreeForm.exe
+C:\Data\programre-vizuala-csharp\Aplicatii\TreeForm\TreeForm\obj\Debug\TreeForm.pdb
+C:\Data\programre-vizuala-csharp\Aplicatii\TreeForm\TreeForm\obj\Debug\TreeForm.Mockup.resources
